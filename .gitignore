@@ -1,0 +1,21 @@
+# OS / editor noise
+.DS_Store
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
+
+# Generated data (raw and cleaned)
+# Ignore only root-level CSVs; keep data/ tracked for submission
+/customers.csv
+/products.csv
+/transactions.csv
+/customers_clean.csv
+/products_clean.csv
+/transactions_clean.csv
+
+# Analytics outputs
+outputs/
+

@@ -1,0 +1,206 @@
+customer_id,name,email,registration_date,country,age
+C001,Logan Brown,,2024-01-01,Canada,39
+C002,John Rodriguez,emma.johnson1@email.com,2024-01-02,France,28
+C003,Ava Davis,,2024-01-04,Australia,65
+C004,William Brown,,2024-01-06,Italy,33
+C005,Abigail Moore,william.jones4@email.com,2024-01-08,Canada,50
+C006,Michael Jackson,,2024-01-10,Netherlands,26
+C007,Charlotte Johnson,james.miller6@email.com,2024-01-12,Germany,23
+C008,John Williams,ava.davis7@email.com,2024-01-13,Canada,33
+C009,James Davis,,2024-01-15,Australia,46
+C010,Lucas Martin,isabella.martinez9@email.com,2024-01-17,Italy,20 years
+C011,John Moore,liam.hernandez10@email.com,2024-01-19,France,37
+C012,James White,mia.lopez11@email.com,2024-01-21,Australia,53
+C013,Logan White,noah.gonzalez12@email.com,2024-01-23,Australia,36
+C014,Harper Wilson,charlotte.wilson13@email.com,2024-01-24,Germany,43
+C015,Ava Anderson,ethan.anderson14@email.com,2024-01-26,Spain,20
+C016,Mason Rodriguez,amelia.thomas15@email.com,2024-01-28,Italy,36
+C017,John Garcia,lucas.taylor16@email.com,2024-01-30,United Kingdom,37
+C018,Alexander Wilson,harper.moore17@email.com,2024-02-01,Australia,49
+C019,Liam Rodriguez,mason.jackson18@email.com,2024-02-03,Spain,24
+C020,William Miller,evelyn.martin19@email.com,2024-02-04,United Kingdom,69
+C021,Liam Brown,logan.lee20@email.com,2024-02-06,Italy,58
+C022,Michael Gonzalez,abigail.thompson21@email.com,2024-02-08,United States,50
+C023,Sophia Lopez,alexander.white22@email.com,2024-02-10,Netherlands,57
+C024,Mia Martin,,2024-02-12,Spain,56
+C025,Oliver Johnson,john.johnson24@email.com,2024-02-14,Japan,35
+C026,Emily Anderson,emma.williams25@email.com,2024-02-15,USA,57
+C027,Harper Brown,,2024-02-17,Netherlands,18
+C028,Noah Williams,sophia.jones27@email.com,2024-02-19,Germany,28
+C029,Harper Martinez,william.garcia28@email.com,2024-02-21,Canada,45
+C030,Logan Martin,olivia.miller29@email.com,2024-02-23,France,74
+C031,Mia Jackson,james.davis30@email.com,2024-02-25,Japan,42 years
+C032,James White,ava.rodriguez31@email.com,2024-02-26,Germany,67
+C033,Michael Johnson,,2024-02-28,Italy,40
+C034,Abigail Davis,isabella.hernandez33@email.com,2024-03-01,Germany,48
+C035,Isabella Williams,liam.lopez34@email.com,2024-03-03,Canada,47
+C036,Ava Brown,mia.gonzalez35@email.com,2024-03-05,Italy,59
+C037,Noah Rodriguez,,2024-03-07,Japan,52
+C038,Ethan Lee,charlotte.anderson37@email.com,2024-03-08,Canada,24
+C039,Mia Garcia,ethan.thomas38@email.com,2024-03-10,United Kingdom,33
+C040,Mia Lopez,amelia.taylor39@email.com,2024-03-12,France,43
+C041,James Thompson,lucas.moore40@email.com,2024-03-14,Japan,65
+C042,Oliver White,harper.jackson41@email.com,2024-03-16,United Kingdom,74
+C043,Abigail Lee,mason.martin42@email.com,2024-03-18,Netherlands,69
+C044,Michael Martin,evelyn.lee43@email.com,2024-03-19,Japan,66
+C045,Logan Garcia,logan.thompson44@email.com,2024-03-21,Netherlands,19
+C046,Harper Davis,abigail.white45@email.com,2024-03-23,Italy,18
+C047,Olivia Anderson,alexander.smith46@email.com,2024-03-25,United Kingdom,65
+C048,Noah Rodriguez,emily.johnson47@email.com,2024-03-27,France,29
+C049,Logan White,john.williams48@email.com,2024-03-29,Canada,22
+C050,Harper Davis,emma.brown49@email.com,2024-03-30,Australia,54
+C051,Abigail Hernandez,michael.jones50@email.com,2024-04-01,Germany,49
+C052,Emma Davis,sophia.garcia51@email.com,2024-04-03,United States,72
+C053,Emma Hernandez,william.miller52@email.com,2024-04-05,France,26 years
+C054,Noah Rodriguez,olivia.davis53@email.com,2024-04-07,United Kingdom,58
+C055,Michael Miller,james.rodriguez54@email.com,2024-04-09,Australia,52
+C056,Mason White,ava.martinez55@email.com,2024-04-10,France,36
+C057,Liam Miller,oliver.hernandez56@email.com,2024-04-12,United Kingdom,65
+C058,Logan Thomas,isabella.lopez57@email.com,2024-04-14,Spain,33
+C059,Noah Lee,liam.gonzalez58@email.com,2024-04-16,Spain,20
+C060,Ethan Jones,mia.wilson59@email.com,2024-04-18,Netherlands,37
+C061,Oliver Jones,noah.anderson60@email.com,2024-04-20,France,41
+C062,Ava Moore,charlotte.thomas61@email.com,2024-04-21,Spain,71
+C063,Harper Rodriguez,ethan.taylor62@email.com,2024-04-23,United Kingdom,73
+C064,Emily Jackson,amelia.moore63@email.com,2024-04-25,Netherlands,50
+C065,Charlotte Jackson,lucas.jackson64@email.com,2024-04-27,United Kingdom,41
+C066,Noah Lopez,harper.martin65@email.com,2024-04-29,Netherlands,69
+C067,Ava Jones,mason.lee66@email.com,2024-05-01,France,28
+C068,Lucas Thomas,evelyn.thompson67@email.com,2024-05-02,Australia,66
+C069,Michael Johnson,logan.white68@email.com,2024-05-04,Canada,25
+C070,Sophia Jones,abigail.smith69@email.com,2024-05-06,Japan,53
+C071,Logan Garcia,,2024-05-08,Australia,55
+C072,Abigail Wilson,emily.williams71@email.com,2024-05-10,Italy,57
+C073,Evelyn Williams,john.brown72@email.com,2024-05-12,United Kingdom,37 years
+C074,Noah Gonzalez,emma.jones73@email.com,2024-05-13,Italy,52
+C075,Evelyn Anderson,michael.garcia74@email.com,2024-05-15,Australia,65
+C076,Lucas Rodriguez,sophia.miller75@email.com,2024-05-17,Netherlands,42
+C077,Harper Smith,william.davis76@email.com,2024-05-19,Japan,52
+C078,Abigail Brown,olivia.rodriguez77@email.com,2024-05-21,Japan,42
+C079,Abigail Moore,james.martinez78@email.com,2024-05-23,United States,46
+C080,Oliver Lee,ava.hernandez79@email.com,2024-05-24,Japan,35
+C081,Liam Brown,oliver.lopez80@email.com,2024-05-26,Canada,63
+C082,Isabella Wilson,isabella.gonzalez81@email.com,2024-05-28,Japan,35
+C083,Olivia Anderson,liam.wilson82@email.com,2024-05-30,Australia,19 years
+C084,John Rodriguez,mia.anderson83@email.com,2024-06-01,US,71
+C085,Lucas Garcia,noah.thomas84@email.com,2024-06-03,Australia,52
+C086,Lucas Brown,charlotte.taylor85@email.com,2024-06-04,Australia,33
+C087,Logan Martinez,ethan.moore86@email.com,2024-06-06,Germany,58
+C088,Logan Taylor,amelia.jackson87@email.com,2024-06-08,United States,53
+C089,Evelyn Miller,lucas.martin88@email.com,2024-06-10,Australia,50
+C090,William Lopez,harper.lee89@email.com,2024-06-12,Germany,21
+C091,Olivia Moore,mason.thompson90@email.com,2024-06-14,Germany,50 years
+C092,Lucas Smith,evelyn.white91@email.com,2024-06-15,US,31
+C093,Evelyn Hernandez,logan.smith92@email.com,2024-06-17,Italy,38
+C094,Amelia Smith,abigail.johnson93@email.com,2024-06-19,Netherlands,65
+C095,Sophia Lopez,alexander.williams94@email.com,2024-06-21,Canada,37
+C096,Isabella Davis,emily.brown95@email.com,2024-06-23,Netherlands,73
+C097,Emma Davis,john.jones96@email.com,2024-06-25,Japan,25
+C098,Mason Williams,emma.garcia97@email.com,2024-06-26,Canada,24
+C099,Michael Thomas,michael.miller98@email.com,2024-06-28,Japan,20
+C100,Michael Moore,sophia.davis99@email.com,2024-06-30,Australia,34
+C101,William Jones,william.rodriguez100@email.com,2024-07-02,United Kingdom,50
+C102,Abigail Thomas,,2024-07-04,USA,65
+C103,Harper Garcia,,2024-07-06,Canada,29 years
+C104,Oliver Taylor,ava.lopez103@email.com,2024-07-07,Canada,68
+C105,Evelyn Wilson,oliver.gonzalez104@email.com,2024-07-09,Australia,39
+C106,James Moore,isabella.wilson105@email.com,2024-07-11,Italy,72
+C107,Emily White,liam.anderson106@email.com,2024-07-13,Germany,39
+C108,James White,mia.thomas107@email.com,2024-07-15,Australia,63
+C109,Isabella Gonzalez,noah.taylor108@email.com,2024-07-17,Spain,47
+C110,Abigail Lee,charlotte.moore109@email.com,2024-07-18,Germany,55
+C111,Mia Anderson,,2024-07-20,United States,55
+C112,Lucas Anderson,amelia.martin111@email.com,2024-07-22,Germany,62
+C113,Sophia Davis,lucas.lee112@email.com,2024-07-24,Italy,68
+C114,Ava Williams,harper.thompson113@email.com,2024-07-26,Germany,71
+C115,Liam Smith,mason.white114@email.com,2024-07-28,US,25
+C116,Mason Moore,evelyn.smith115@email.com,2024-07-29,Italy,44
+C117,Ava Jackson,logan.johnson116@email.com,2024-07-31,Netherlands,44
+C118,Ava Smith,abigail.williams117@email.com,2024-08-02,Canada,51
+C119,Michael White,alexander.brown118@email.com,2024-08-04,Canada,38
+C120,Logan Johnson,emily.jones119@email.com,2024-08-06,Japan,47
+C121,Ava Williams,john.garcia120@email.com,2024-08-08,Netherlands,50
+C122,Emma Hernandez,emma.miller121@email.com,2024-08-09,Netherlands,45
+C123,Michael Taylor,michael.davis122@email.com,2024-08-11,Germany,64
+C124,Ava Rodriguez,sophia.rodriguez123@email.com,2024-08-13,Canada,50
+C125,Abigail Thomas,william.martinez124@email.com,2024-08-15,USA,22
+C126,James Moore,olivia.hernandez125@email.com,2024-08-17,France,65 years
+C127,William Jackson,james.lopez126@email.com,2024-08-19,France,36
+C128,Mason Thomas,ava.gonzalez127@email.com,2024-08-20,Italy,21
+C129,Ava Thomas,oliver.wilson128@email.com,2024-08-22,Canada,52 years
+C130,Charlotte Miller,isabella.anderson129@email.com,2024-08-24,Canada,66 years
+C131,Sophia Brown,liam.thomas130@email.com,2024-08-26,France,34
+C132,Abigail Wilson,mia.taylor131@email.com,2024-08-28,Canada,61
+C133,Mia Wilson,noah.moore132@email.com,2024-08-30,Germany,45 years
+C134,Charlotte Anderson,,2024-08-31,Spain,47
+C135,Emily Johnson,ethan.martin134@email.com,2024-09-02,United Kingdom,46
+C136,Abigail Lee,amelia.lee135@email.com,2024-09-04,Netherlands,63
+C137,Logan Brown,lucas.thompson136@email.com,2024-09-06,Japan,70
+C138,Emma Gonzalez,harper.white137@email.com,2024-09-08,Italy,23
+C139,Emily Hernandez,mason.smith138@email.com,2024-09-10,Spain,52
+C140,Sophia Davis,evelyn.johnson139@email.com,2024-09-11,France,58
+C141,James Miller,logan.williams140@email.com,2024-09-13,Netherlands,54
+C142,Harper Anderson,abigail.brown141@email.com,2024-09-15,Canada,41
+C143,William Wilson,,2024-09-17,Japan,46
+C144,Olivia Rodriguez,emily.garcia143@email.com,2024-09-19,Canada,66
+C145,Ethan Davis,john.miller144@email.com,2024-09-21,US,63
+C146,Michael Anderson,emma.davis145@email.com,2024-09-22,US,70
+C147,Harper Brown,michael.rodriguez146@email.com,2024-09-24,Japan,48
+C148,Emma Lee,sophia.martinez147@email.com,2024-09-26,Japan,52
+C149,Harper Smith,william.hernandez148@email.com,2024-09-28,France,50
+C150,Michael Davis,,2024-09-30,Japan,69 years
+C151,Olivia Wilson,james.gonzalez150@email.com,2024-10-02,Germany,38
+C152,Amelia Thomas,,2024-10-03,Canada,49
+C153,James Gonzalez,oliver.anderson152@email.com,2024-10-05,Spain,40
+C154,Emma Garcia,isabella.thomas153@email.com,2024-10-07,Australia,50
+C155,Noah Smith,liam.taylor154@email.com,2024-10-09,Japan,20
+C156,Noah Rodriguez,mia.moore155@email.com,2024-10-11,Italy,35
+C157,Ethan Martinez,noah.jackson156@email.com,2024-10-13,USA,42
+C158,Charlotte White,charlotte.martin157@email.com,2024-10-14,Germany,59
+C159,Emily Moore,ethan.lee158@email.com,2024-10-16,Netherlands,48
+C160,Abigail White,amelia.thompson159@email.com,2024-10-18,Australia,71
+C161,Amelia Jones,lucas.white160@email.com,2024-10-20,Spain,75
+C162,James Martinez,harper.smith161@email.com,2024-10-22,Australia,20
+C163,James Johnson,,2024-10-24,Japan,57
+C164,Mason Moore,evelyn.williams163@email.com,2024-10-25,France,63
+C165,Emma Hernandez,logan.brown164@email.com,2024-10-27,United States,41
+C166,Emma Johnson,abigail.jones165@email.com,2024-10-29,US,67
+C167,Mason Thomas,alexander.garcia166@email.com,2024-10-31,Netherlands,49
+C168,Lucas Taylor,emily.miller167@email.com,2024-11-02,France,64
+C169,Olivia Johnson,john.davis168@email.com,2024-11-04,Canada,39
+C170,Lucas Williams,emma.rodriguez169@email.com,2024-11-05,United Kingdom,40
+C171,Olivia Williams,michael.martinez170@email.com,2024-11-07,Germany,19
+C172,Evelyn Williams,sophia.hernandez171@email.com,2024-11-09,USA,44
+C173,Abigail Davis,william.lopez172@email.com,2024-11-11,Italy,59
+C174,Noah Brown,,2024-11-13,United States,19
+C175,Mason Davis,james.wilson174@email.com,2024-11-15,Australia,43
+C176,Mason Martin,ava.anderson175@email.com,2024-11-16,USA,34
+C177,Emma Martin,oliver.thomas176@email.com,2024-11-18,United States,57
+C178,Michael Wilson,isabella.taylor177@email.com,2024-11-20,United Kingdom,50
+C179,Abigail Jackson,liam.moore178@email.com,2024-11-22,United Kingdom,26
+C180,Mason Taylor,mia.jackson179@email.com,2024-11-24,Spain,60
+C181,Liam Rodriguez,noah.martin180@email.com,2024-11-26,Canada,71
+C182,James Thompson,charlotte.lee181@email.com,2024-11-27,Italy,65
+C183,Alexander Hernandez,ethan.thompson182@email.com,2024-11-29,US,56
+C184,Ava Rodriguez,amelia.white183@email.com,2024-12-01,United States,46
+C185,Noah Jones,lucas.smith184@email.com,2024-12-03,Germany,59
+C186,Abigail Lee,harper.johnson185@email.com,2024-12-05,United Kingdom,72
+C187,Isabella Anderson,mason.williams186@email.com,2024-12-07,Italy,43
+C188,Liam Williams,evelyn.brown187@email.com,2024-12-08,Netherlands,52
+C189,John Anderson,logan.jones188@email.com,2024-12-10,Spain,67
+C190,Evelyn Jackson,abigail.garcia189@email.com,2024-12-12,Canada,42
+C191,Sophia Williams,alexander.miller190@email.com,2024-12-14,France,41
+C192,Harper Miller,,2024-12-16,Canada,30
+C193,Lucas Rodriguez,john.rodriguez192@email.com,2024-12-18,Australia,75
+C194,William Lopez,emma.martinez193@email.com,2024-12-19,United States,24
+C195,Michael Davis,michael.hernandez194@email.com,2024-12-21,Spain,74
+C196,Mia Martinez,sophia.lopez195@email.com,2024-12-23,Australia,53
+C197,Olivia Anderson,william.gonzalez196@email.com,2024-12-25,Italy,62
+C198,Harper White,olivia.wilson197@email.com,2024-12-27,France,37 years
+C199,Isabella Martin,james.anderson198@email.com,2024-12-29,United Kingdom,18
+C200,Logan Taylor,ava.thomas199@email.com,2024-12-31,Spain,25 years
+C008,John Williams,ava.davis7@email.com,2024-01-13,Canada,33
+C115,Liam Smith,mason.white114@email.com,2024-07-28,US,25
+C048,Noah Rodriguez,emily.johnson47@email.com,2024-03-27,France,29
+C034,Abigail Davis,isabella.hernandez33@email.com,2024-03-01,Germany,48 years
+C114,Ava Williams,harper.thompson113@email.com,2024-07-26,Germany,71

@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock
+P001,Speaker,Electronics,353.96,15
+P002,Science Book,Books,34.88,11246
+P003,Sweater,Clothing,23.53,97
+P004,Smartphone,Electronics,56.05,86
+P005,Running Shoes,sports,-339.29,50
+P006,Travel Guide,Books,,62
+P007,Tennis Racket,Sports,491.1,21
+P008,Cookbook,Books,299.51,85
+P009,Fantasy Book,Books,132.62,41
+P010,Picture Frame,Home,,53
+P011,Smartphone,Electronics,273.17,100
+P012,Picture Frame,Home,265.9,52
+P013,Laptop,Electronics,143.06,4
+P014,Biography,books,234.06,5
+P015,Biography,Books,35.32,93
+P016,  Mirror  ,Home,274.91,54
+P017,Mirror,Home,77.79,15
+P018,Smartphone,Electronics,-488.17,29
+P019,Tablet,Electronics,30.12,62
+P020,Yoga Mat,sports,222.43,57
+P021,Poetry Collection,Books,48.44,100
+P022,Running Shoes,Sports,100.32,61
+P023,Blanket,Home,419.63,8
+P024,Camera,Electronics,347.36,0
+P025,Fiction Novel,Books,94.91,0
+P026,Cookbook,Books,226.75,95
+P027,Jeans,Clothing,279.12,47
+P028,Fantasy Book,Books,99.6,0
+P029,  Plant Pot  ,Home,477.88,63
+P030,Dress,Clothing,-281.63,21
+P031,Jacket,Clothing,367.72,66
+P032,  Lamp  ,home,131.39,15
+P033,Shoes,Clothing,87.74,85
+P034,Vase,Home,17.05,77
+P035,  Biography  ,Books,54.98,46
+P036,  Keyboard  ,Electronics,29.96,61
+P037,  Mouse  ,Electronics,,75
+P038,  Dress  ,Clothing,18.41,89
+P039,Candle,Home,250.89,38
+P040,Cookbook,Books,179.69,93
+P041,T-Shirt,Clothing,328.39,9
+P042,Sneakers,Clothing,475.08,99
+P043,  Travel Guide  ,books,32.2,94
+P044,Camera,Electronics,17.5,18
+P045,Fantasy Book,Books,256.54,11048
+P046,Mirror,home,274.29,3
+P047,Fiction Novel,Books,311.77,79
+P048,  Camera  ,electronics,324.79,91
+P049,Scarf,Clothing,297.03,90
+P050,  Fiction Novel  ,books,402.47,5987
