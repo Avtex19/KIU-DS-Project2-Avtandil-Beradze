@@ -1,5 +1,10 @@
 ## Project 2 — Pandas Data Manipulation
 
+## Student
+
+Name: Avtandil Beradze
+Student ID: 60001155177
+
 This repository contains:
 - `generate_project2_data.py`: script to generate three CSVs with intentional data quality issues
 - `project2_solution.py`: end-to-end cleaning and analysis solution using Pandas
